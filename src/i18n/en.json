@@ -1,0 +1,10 @@
+{
+    "validations": {
+        "email": "This is no geldig emailaddress",
+        "isRightGender": "Real men use TypeScript",
+        "minLength": "Too short, it needs to be at least {min} characters",
+        "required": "You need to fill this in e",
+        "requiredIf": "You need to fill this in e",
+        "sameAs": "This value needs to be '{equalTo}'"
+    }
+}

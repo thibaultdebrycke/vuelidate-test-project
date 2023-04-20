@@ -1,0 +1,10 @@
+{
+    "validations": {
+        "email": "C'est n'est pas une adresse email valide",
+        "isRightGender": "Vrai hommes utilisent TypeScript",
+        "minLength": "Ce champ doit contenir au moins {minLength} caractères",
+        "required": "Ce champ est requis",
+        "requiredIf": "Ce champ est requis",
+        "sameAs": "Ce champ doit être identique à {equalTo}"
+    }
+}

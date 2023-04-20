@@ -1,0 +1,10 @@
+{
+    "validations": {
+        "email": "Dit is geen geldig e-mailadres",
+        "isRightGender": "Echte mannen gebruiken TypeScript",
+        "minLength": "Da ier is te kort, tmoe minstens {min} karakters zijn",
+        "required": "Je moet da ier invullen e",
+        "requiredIf": "Je moet da ier invullen e",
+        "sameAs": "Deze waarden moet '{equalTo}' zijn"
+    }
+}
